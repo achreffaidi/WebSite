@@ -657,20 +657,20 @@ ul {
   padding: 13px 44px;
   border-radius: 50px;
   background-color: transparent;
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Rajdhani", sans-serif;
   font-weight: 500;
   color: #182028;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-transform: uppercase;
-  border: 1px solid #ff4800;
+  border: 1px solid #FECC3D;
 }
 
 /* line 37, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_button.scss */
 .btn_1:hover {
-  color: #fff !important;
-  background-color: #ff4800;
+  color: #FFF !important;
+  background-color: #FECC3D;
 }
 
 @media (max-width: 576px) {
@@ -2288,7 +2288,7 @@ ul {
 
 /* line 14, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
 .home_menu .main-menu-item ul li .nav-link {
-  color: #ff4800;
+  color: #242A3A;
 }
 
 /* line 21, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
@@ -2341,7 +2341,7 @@ ul {
 
 /* line 55, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link:hover {
-  color: #ff4800;
+  color: #242A3A;
 }
 
 /* line 61, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
@@ -2496,7 +2496,7 @@ ul {
   }
   /* line 209, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
   .main-menu-item ul li .nav-link:hover {
-    color: #ff4800;
+    color: #242A3A;
   }
 }
 
@@ -2507,7 +2507,7 @@ ul {
   }
   /* line 221, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
   .single_page_menu ul li .nav-link:hover {
-    color: #ff4800;
+    color: #242A3A;
   }
 }
 
@@ -2617,7 +2617,8 @@ ul {
 
 /* line 319, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
 .menu_fixed .btn_1:hover {
-  border: 1px solid #ff4800;
+  border: 1px solid #242A3A;
+  background-color: #242A3A;
 }
 
 /* line 325, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_menu.scss */
@@ -3811,7 +3812,7 @@ ul {
 
 /* line 14, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_client_logo.scss */
 .client_logo .owl-carousel .owl-item img {
-  width: auto;
+  width:300px;
 }
 
 /* line 17, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_client_logo.scss */
